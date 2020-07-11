@@ -1,6 +1,6 @@
 # Skynet
 This is a Markdown template for developing a business model using the Business Model Canvas.
-![](C:\Users\Logan\Desktop\Logo.png)
+![Team Logo](C:\Users\Logan\Desktop\Logo.png)
 ## Summary of Business
 Add a description that is about the length of an evelvator pitch for the business.
 

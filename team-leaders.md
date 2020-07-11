@@ -1,9 +1,9 @@
-# Team Leader
+# Hugo
 
-* T0: (add name)
-* T1: (add name)
-* T2: (add name)
-* T3: (add name)
-* T4: (add name)
-* T5: (add name)
-* T6: (add name)
+* T0: (Logan)
+* T1: (Tolua)
+* T2: (Bryan)
+* T3: (Tanner)
+* T4: (NA)
+* T5: (NA)
+* T6: (NA)

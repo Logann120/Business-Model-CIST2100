@@ -1,5 +1,4 @@
 # Skynet
-This is a Markdown template for developing a business model using the Business Model Canvas.
 ![Team Logo](https://icon-library.com/images/information-technology-icon-png/information-technology-icon-png-28.jpg)
 ## Summary of Business
 Add a description that is about the length of an evelvator pitch for the business.

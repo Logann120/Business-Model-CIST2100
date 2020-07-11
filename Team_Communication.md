@@ -8,11 +8,11 @@
 **Means of Communication**
 - Our team members will be communicating through Slack.
 - If Slack is unavailable, please use the fallowing emails for communication needs.
-	+ Hugo(CEO) - hcorado@unomaha.edu
-	+ Logan Noonan (COO) - logannoonan@unomaha.edu
-	+ Bryan Retana-Ramirez (CFO) - bretana2010@gmail.com
-	+ Toluwa Davies (CTO) - ddavies@unomaha.edu
-	+ Tanner Totusek (CIO) - tannertotusek@unomaha.edu
+	+ Hugo Corado(CEO) - hcorado@unomaha.edu
+	+ Logan Noonan(COO) - logannoonan@unomaha.edu
+	+ Bryan Retana-Ramirez(CFO) - bretana2010@gmail.com
+	+ Toluwa Davies(CTO) - ddavies@unomaha.edu
+	+ Tanner Totusek(CIO) - tannertotusek@unomaha.edu
 
 
 

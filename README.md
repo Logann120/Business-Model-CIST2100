@@ -1,4 +1,4 @@
-# Name of Business
+# Skynet
 This is a Markdown template for developing a business model using the Business Model Canvas.
 Add logo of the business here. Remove this description.
 
@@ -81,8 +81,8 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* Hugo, CEO
+* Logan, COO
+* Toluwa, CTO
+* Bryan, CFO
+* Tanner, CIO

@@ -1,7 +1,7 @@
 # Skynet
 ![Team Logo](https://icon-library.com/images/information-technology-icon-png/information-technology-icon-png-28.jpg)
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+SkyNet is a company of engineers, programmers and cryptographers offering packages of copy protection for digital media such as web pages, videogames, and eBooks. Our product will provide peace of mind to any business who produces online media. Developers will no longer need to worry about their products being pirated. We are also able to accomplish this without negatively affecting the paying media consumers. Unlike some encryption methods, with our packages, honest paying media consumers will not need to suffer through frustration when trying to access their media. This key point will promote the media consumer relationship and is a win for both sides.      
 
 ## Website of Business
 Add here a link to your website design.

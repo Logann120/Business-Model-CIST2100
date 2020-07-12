@@ -1,4 +1,4 @@
-# Logan
+# Team Leader
 
 * T0: (Hugo)
 * T1: (Toluwa)

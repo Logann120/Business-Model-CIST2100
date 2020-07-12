@@ -1,6 +1,6 @@
-# Hugo
+# Logan
 
-* T0: (Logan)
+* T0: (Hugo)
 * T1: (Toluwa)
 * T2: (Bryan)
 * T3: (Tanner)

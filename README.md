@@ -79,8 +79,8 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* Hugo, CEO
-* Logan, COO
-* Toluwa, CTO
-* Bryan, CFO
-* Tanner, CIO
+* Hugo Corado, CEO
+* Logan Noonan, COO
+* Toluwa Davies, CTO
+* Bryan Retena-Ramirez, CFO
+* Tanner Totusek, CIO

@@ -25,9 +25,9 @@ Add here a link to your website design.
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>SkyNet offers industry leading security for anyone who has data to protect.<br>
-      We have experience protecting data for small businesses all the way up to government agencies.<br>   
-      Whether you are running an older OS version or the new technology of today, we can serve you.<br>
+      <p>SkyNet offers industry-leading security for anyone who has data to protect.<br>
+      We have experience protecting data for a variety of clients, from small businesses all the way up to government agencies.<br>   
+      Whether you are running an older OS version or the latest technology available today, we can serve you.<br>
       SkyNet offers package deals to fit any budget.<br>
       <br><br><br><br><br>
     </td>

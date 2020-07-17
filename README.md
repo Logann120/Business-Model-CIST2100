@@ -6,8 +6,7 @@ SkyNet is a company of engineers, programmers and cryptographers offering packag
 ## Website of Business
 Add here a link to your website design.
 
-## Business Model Canvas
-Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
+## Business Model Canvas  
 
 <table>
   <tr>
@@ -26,12 +25,10 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>SkyNet offers industry leading security for anyone who has data to protect.<br>
+      We have experience protecting data for small businesses all the way up to government agencies.<br>   
+      Whether you are running an older OS version or the new technology of today, we can serve you.<br>
+      SkyNet offers package deals to fit any budget.<br>
       <br><br><br><br><br>
     </td>
     <td>

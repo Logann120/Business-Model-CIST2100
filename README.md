@@ -38,8 +38,8 @@ Add here a link to your website design.
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>SkyNet has something to offer for anyone with sensitive digital information.<br>
+      We pride ourselves on being able to serve gamers, game manufacturers, authors, professionals and even government. </p>
     </td>
   </tr>
   <tr>

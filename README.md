@@ -80,4 +80,3 @@ Add here a link to your website design.
 * Logan Noonan, COO
 * Toluwa Davies, CTO
 * Bryan Retena-Ramirez, CFO
-* Tanner Totusek, CIO

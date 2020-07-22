@@ -52,9 +52,8 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p>Customers will be reached through online advertisements as well as community events and sponsorship.<br>
+      SkyNet will offer customer support during normal business hours with 24/7 support available for premium service level customers.</p>
     </td>
   </tr>
   <tr>

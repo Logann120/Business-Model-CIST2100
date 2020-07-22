@@ -33,8 +33,9 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p>Paying customers expect support when they need it, and thats exactly what SkyNet offers. We are here for you.<br>
+      With SkyNet you will have customer support readily available, no long wait times. We also have a FAQ page for even quicker support. 
+      Customers can also submit questions and suggestions to help us be of better service.</p>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>

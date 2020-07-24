@@ -45,10 +45,8 @@ Add here a link to your website design.
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p>At SkyNet our most valuable resource is our employees. Our engineers, developers, and financial department, among others, will be our backbone.<br>
+      Hardware is also very important to us. The entire company depends on our hardware functioning perfectly all the time. <br>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>

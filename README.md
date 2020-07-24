@@ -18,10 +18,9 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p>All products and backup options are digital, however we do provide physical as well as virtual customer support.<br>
+      We will also be spending time on research and development as the tech industry changes rapidly.<br>
+      Revenue will be collected virtually.</p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>

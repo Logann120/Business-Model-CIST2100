@@ -1,9 +1,9 @@
 # Customer Segments
 
 ### Who will we serve?
-- Skynet offers comprehensive coverage so we can serve anyone ho has data to protect. We are able to serve individuals, small businesses, large corporations, and even government agencies. Our products are fully customizable to suit all needs regarding data security.
+- Skynet offers comprehensive coverage so we can serve anyone ho has data to protect. We are able to serve individuals, small businesses, large corporations, and even government agencies. Our products are fully customizable to suit all needs regarding data security. SkyNet is well versed on the different types of breaches that can happen across various platforms and we use this knowledge to prtoect you in new and innovative ways.
 
-# Here are some of our customers, and the problems they face. 
+## Here are some of our customers, and the problems they face. 
 
 ### Healthcare
 - The breaches of electronic health records are on the rise, even with privacy laws that are meant to protect them. These type of security breaches in digital health records can include an extensive amount of personal information, such as your Social Security numbers, medical records, credit cards, and other demographic and financial information related to your identity. Usually there’s sensitive health information that gets acquired during these Hospital breaches. However, hackers are likely not after medical records, instead they are mostly after financial information that they can capitalize on. 

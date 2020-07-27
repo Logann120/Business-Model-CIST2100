@@ -16,7 +16,7 @@ Many large scale industries, such as much of healthcare, are running on outdated
   - Data Masking
   - Tokenization
   
-SkyNet offers these various forms of security in order to specifically serve you. Unlike with other security options, that leave you without choice, with SkyNet you can decide on the type of security and features that suit you best. Once you have our software installed we will be able to remotely customize the security based on your preferences. 
+SkyNet offers these various forms of security in order to specifically serve the customer. Unlike with other security options, that leave you without choice, with SkyNet you can decide on the type of security and features that suit you best. Once you have our software installed we will be able to remotely customize the security based on your preferences. We also offer cloud backups, should a backup be needed.   
 
 # Scope  
 While most security options are very specialized and lack the ability to be applicable across multiple platforms, SkyNet is comprehensive in its coverage. We provide security solutions to the healthcare industry, gaming industry, eBook industry, and various government agencies. We understand that no two types of information are exacly the same; hence, various forms of security are needed in order to best protect all forms of information and data. This means that with SkyNet you do not have to worry about whether or not we have the capability or know how to protect you.  
@@ -28,7 +28,8 @@ SkyNet is proud to say that in no way do we interrupt the processes of the busin
 - No requirement to continuously upgrade your systems.
 - Various forms of security and authentication for you to choose from.
 - SkyNet has the knowledge and capability to protect any and all of your sensetive information.
-- Our systems run quietly in the background for your convenience
+- Our systems run quietly in the background for your convenience.
+- Cloud backups.
 
 
 

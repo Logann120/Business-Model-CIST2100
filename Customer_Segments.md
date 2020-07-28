@@ -30,3 +30,5 @@ Some of the problems reported by the Department of Homeland Security, stem from 
 - Online copyright infringement tracker: Latest wave of research (March 2017): Overview and key findings. (2017). Newport: The Intellectual Property Office.
 
 - Rowe, A. (n.d.). U.S. Publishers Are Still Losing $300 Million Annually To Ebook Piracy. Forbes. Retrieved July 27, 2020, from https://www.forbes.com/sites/adamrowe1/2019/07/28/us-publishers-are-still-losing-300-million-annually-to-ebook-piracy/
+
+-Figure 2f from: Irimia R, Gottschling M (2016) Taxonomic revision of Rochefortia Sw. (Ehretiaceae, Boraginales). Biodiversity Data Journal 4: E7720. https://doi.org/10.3897/BDJ.4.e7720. (n.d.). doi:10.3897/bdj.4.e7720.figure2f

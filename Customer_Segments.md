@@ -25,8 +25,8 @@ Some of the problems reported by the Department of Homeland Security, stem from 
 
 ### References
 
-- Rowe, A. (n.d.). U.S. Publishers Are Still Losing $300 Million Annually To Ebook Piracy. Forbes. Retrieved July 27, 2020, from https://www.forbes.com/sites/adamrowe1/2019/07/28/us-publishers-are-still-losing-300-million-annually-to-ebook-piracy/
+- Cybersecurity Challenges Facing the Nation – High Risk Issue. (n.d.). U.S> Government Accountability Office, Retrieved July 27, 2020, from https://www.gao.gov/key_issues/ensuring_security_federal_information_systems/issue_summary
 
 - Online copyright infringement tracker: Latest wave of research (March 2017): Overview and key findings. (2017). Newport: The Intellectual Property Office.
 
-- Cybersecurity Challenges Facing the Nation – High Risk Issue. (n.d.). U.S> Government Accountability Office, Retrieved July 27, 2020, from https://www.gao.gov/key_issues/ensuring_security_federal_information_systems/issue_summary
+- Rowe, A. (n.d.). U.S. Publishers Are Still Losing $300 Million Annually To Ebook Piracy. Forbes. Retrieved July 27, 2020, from https://www.forbes.com/sites/adamrowe1/2019/07/28/us-publishers-are-still-losing-300-million-annually-to-ebook-piracy/

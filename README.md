@@ -4,7 +4,7 @@
 SkyNet is a company of engineers, programmers and cryptographers offering packages of copy protection for digital media such as web pages, videogames, and eBooks. Our product will provide peace of mind to any business who produces online media. Developers will no longer need to worry about their products being pirated. We are also able to accomplish this without negatively affecting the paying media consumers. Unlike some encryption methods, with our packages, honest paying media consumers will not need to suffer through frustration when trying to access their media. This key point will promote the media consumer relationship and is a win for both sides.      
 
 ## Website of Business
-Add here a link to your website design.
+https://github.com/Logann120/Business-Model-CIST2100/blob/master/SkyNet%20Website%20Pages.pdf
 
 ## Business Model Canvas  
 
@@ -12,9 +12,9 @@ Add here a link to your website design.
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <p>Our key partners largely consist of technology companies.<br>
+      Our main suppliers will be Apricorn, Kingston Technology, and Apple.<br>
+      We will also partner with zoom and slack to help with business communication and with IBM for cloud storage.</p>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>

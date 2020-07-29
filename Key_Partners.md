@@ -7,7 +7,10 @@ Apricorn will supply goods to us. They are a hardware company that makes secure 
 Kingston Technology will also provide goods for us. Specifically, we will purchase secure USB drives from them for our personal use. 
 
 ### IBM
-IBM will provide cloud storage for our business. They have a well-developed and secure cloud storage platform set up. Their storage features industry leading security which is of most importance to us since we will use the storage to hold customer information. 
+IBM will provide cloud storage for our business. They have a well-developed and secure cloud storage platform set up. Their storage features industry leading security which is of most importance to us since we will use the storage to hold customer information.
+
+### Apple
+Apple provides amazing quality computers that have a long lifespan so providing our employees with Apple computers would be an excellent choice. Their computers come fitted with MacOS which is a very easy and intuitive operating system that would be easy to get familiar with.
 
 ### Cox
 We will be using Cox as our internet service provider. They provide a stable connection in the metro area and since we are providing customer service online, we will need very reliable internet.

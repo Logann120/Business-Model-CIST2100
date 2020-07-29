@@ -25,4 +25,4 @@ GitHub will be crucial when providing version control for all of our code. With 
 Slack will provide us with an excellent platform to keep communication through and will allow us to look back at our conversations if need be. It can also be used to share documents through.
 
 ### Zoom
-Zoom will be our platform for having our team meetings. They have made it simple to schedule meetings along with recording the meetings and screen sharing during them as well. They provide excellent security features for each meeting as well.
+Zoom is the leader in video conferencing, we have partnered with them to host our team meetingsweb conferencing features, and so much more. Above all, Zoom provides end-to-end encryption to ensure conversations are completely confidential.

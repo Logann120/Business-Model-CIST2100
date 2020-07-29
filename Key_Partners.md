@@ -10,10 +10,10 @@ Kingston Technology will also provide goods for us. Specifically, we will purcha
 IBM will provide cloud storage for our business. They have a well-developed and secure cloud storage platform set up. Their storage features industry leading security which is of most importance to us since we will use the storage to hold customer information.
 
 ### Apple
-Apple provides amazing quality computers that have a long lifespan so providing our employees with Apple computers would be an excellent choice. Their computers come fitted with MacOS which is a very easy and intuitive operating system that would be easy to get familiar with.
+Apple provides state of the art computers that have a reputation for having a long lifespan. We want our employees to have accessibility to the best equipment out there to provide impeccable service to our clients. Apple computers are furnished with MacOS, which is a version of Unix that was designed to be highly reliable, stable, and user friendly. 
 
 ### Cox
-We will be using Cox as our internet service provider. They provide a stable connection in the metro area and since we are providing customer service online, we will need very reliable internet.
+We will be using Cox as our internet service provider. Cox internet is the most reliable internet service in the metro area along with a steady connection. A reliable internet connection will be essential while provide world class customer service.
 
 ### AT&T
 AT&T's wireless connection will be useful for when we have personel at the organizations we are pitching our product to or providing services to. It is important that our employees can keep in communication with each other even when they are on the go.

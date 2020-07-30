@@ -11,7 +11,7 @@
 |Advertising | $10,100 | $10,100 | $20,200 | $40,400 |
 |Legal | $20,000 | $10,000 | $10,000 | $10,000 |
 |On-Site Customer Support  | $$$ | $$$ | $$$ | $$$ |
-|Wellness Program | $0 | $ | $10,000 | $10,000 |
+|Wellness Program | $0 | $67,177 | $74,507.50 | $80,209 |
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
@@ -56,7 +56,12 @@
 - Service Technicians X 5 = 185,000
 - Financial Team X 3 = 153,000
 - HR Specialist X 5 = $245,000
-
+### Wellness Program
+- Free fitness classes for employees X 2 per month.
+- Gym reimbursement $20/month/employee.
+- Small snack bar $1.50/employee/day.
+- Free flu shots $27/employee/year.
+- Financial Planning 40,000 per year.
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost
@@ -71,5 +76,6 @@
 - Glassdoor. (2020, July 28). Service Technician Salaries. Retrieved from https://www.glassdoor.com/Salaries/service-technician-salary-SRCH_KO0,18.htm
 - PayScale. (2020, July 22). Average Accountant Salary. Retrieved from https://www.payscale.com/research/US/Job=Accountant/Salary
 - glassdoor. (2019, December 10). HR Generalist Salaries in Omaha, NE Area. Retrieved from https://www.glassdoor.com/Salaries/omaha-hr-generalist-salary-SRCH_IL.0,5_IM640_KO6,19.htm	
-
-
+- Glassdoor.(2020, June 10). Financial Advisor Salaries in Omaha, NE Area. Retrieved from 	https://www.glassdoor.com/Salaries/omaha-financial-advisor-salary-	SRCH_IL.0,5_IM640_KO6,23.htm
+- Getsinger, C. (2014, August 4). Onsite Flu Shots Save Health and Absence Costs. Retrieved from 	https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-flu-	shots.aspx#:~:text=Each%20flu%20shot%20only%20costs,or%20direct%20health%20care%20co	sts.
+-Rodech, D. (2016, June 22). Extra Workplace Health Benefits: Are They Worth the Cost? 	Retrieved from https://thebenefitsguide.com/extra-workplace-health-benefits-worth-cost/

@@ -69,6 +69,6 @@
 - Glassdoor. (2020, July 28). Customer Service Salaries. Retrieved from https://www.glassdoor.com/Salaries/customer-service-salary-SRCH_KO0,16.htm
 - Glassdoor. (2020, July 28). Service Technician Salaries. Retrieved from https://www.glassdoor.com/Salaries/service-technician-salary-SRCH_KO0,18.htm
 - PayScale. (2020, July 22). Average Accountant Salary. Retrieved from https://www.payscale.com/research/US/Job=Accountant/Salary
-	
+- glassdoor. (2019, December 10). HR Generalist Salaries in Omaha, NE Area. Retrieved from https://www.glassdoor.com/Salaries/omaha-hr-generalist-salary-SRCH_IL.0,5_IM640_KO6,19.htm	
 
 

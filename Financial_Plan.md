@@ -6,8 +6,8 @@
 |Building and Utilities | $$$ | $$$ | $$$ | $$$ |
 |Employee Salaries | $0 | $1,314,000 | $1,776,000 | $2,100,000 |
 |Liability Insurance | $0  | $631 | $859 | $1081 |
-|Technology | $$$ | $$$ | $$$ | $$$ |
-|Equipment | $$$ | $$$ | $$$ | $$$ |
+|Technology | $$$ | $21,900 | $21,900 | $21,900 |
+|Equipment | $85,400 | $$$ | $$$ | $$$ |
 |Advertising | $10,100 | $10,100 | $20,200 | $40,400 |
 |Legal | $20,000 | $10,000 | $10,000 | $10,000 |
 |On-Site Customer Support  | $$$ | $$$ | $$$ | $$$ |

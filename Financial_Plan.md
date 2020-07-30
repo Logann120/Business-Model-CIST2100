@@ -23,10 +23,20 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-## Documentation for expense assumptions
+## Documentation of expense assumptions
 #### Liability Insurance
 - For our first year we will have $500,000 in coverage. Our second year we will up that to a million, and then two million for year three.
 #### Advertising
 - For start-up and year one we will advertise on Goodle and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three but double the budget each year. 
 #### Legal
-- For start-up we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three we expect to have most bugs sorted out and thus we will not need as much legal help.  
+- For start-up we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three we expect to have most bugs sorted out and thus we will not need as much legal help. 
+
+## References
+- Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost
+- Maake, M. (2020, June 8). How Much Does Google Ads Cost?. Retrieved from 	https://www.webfx.com/blog/marketing/much-cost-advertise-google-	adwords/#:~:text=The%20average%20cost%2Dper%2Dclick,include%20additional%20costs%2C	%20like%20software.
+- WebFX. (2020, February 1). How Much Does Facebook Advertising Cost in 2020?. Retrieved from 	https://www.webfx.com/social-media/how-much-does-facebook-advertising-	cost.html#:~:text=Companies%20spend%20an%20average%20of,%24800%20or%20less%20tha	n%20%24200.
+-	Watchung Little League. (2020). Sponsorship Information. Retrieved from 	http://www.watchunglittleleague.org/Page.asp?n=32708&org=watchunglittleleague
+- Thervo. (2020). How Much Are Attorney Fees?. Retrieved from https://thervo.com/costs/attorney-fees#retainer
+	
+
+

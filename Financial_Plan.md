@@ -60,6 +60,12 @@
 - WebFX. (2020, February 1). How Much Does Facebook Advertising Cost in 2020?. Retrieved from 	https://www.webfx.com/social-media/how-much-does-facebook-advertising-	cost.html#:~:text=Companies%20spend%20an%20average%20of,%24800%20or%20less%20tha	n%20%24200.
 -	Watchung Little League. (2020). Sponsorship Information. Retrieved from 	http://www.watchunglittleleague.org/Page.asp?n=32708&org=watchunglittleleague
 - Thervo. (2020). How Much Are Attorney Fees?. Retrieved from https://thervo.com/costs/attorney-fees#retainer
+- Locsin A. (2020). The Salaries of Upper-Level Management. Retrieved from https://work.chron.com/salaries-upperlevel-management-1899.html
+- Glassdoor. (2020, July 28). Network Engineer Salaries. Retrieved from https://www.glassdoor.com/Salaries/network-engineer-salary-SRCH_KO0,16.htm
+- U.S. Bureau Of Labor Statistics. (2020, April 10). Computer Programmers. Retrieved from https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm
+- Glassdoor. (2020, July 28). Customer Service Salaries. Retrieved from https://www.glassdoor.com/Salaries/customer-service-salary-SRCH_KO0,16.htm
+- Glassdoor. (2020, July 28). Service Technician Salaries. Retrieved from https://www.glassdoor.com/Salaries/service-technician-salary-SRCH_KO0,18.htm
+- PayScale. (2020, July 22). Average Accountant Salary. Retrieved from https://www.payscale.com/research/US/Job=Accountant/Salary
 	
 
 

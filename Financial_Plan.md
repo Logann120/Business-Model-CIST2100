@@ -57,11 +57,11 @@
 - Financial Team X 3 = 153,000
 - HR Specialist X 5 = $245,000
 ### Wellness Program
-- Free fitness classes for employees X 2 per month.
+- Onsite fitness classes 2*$250/month.
 - Gym reimbursement $20/month/employee.
 - Small snack bar $1.50/employee/day.
 - Free flu shots $27/employee/year.
-- Financial Planning 40,000 per year.
+- Financial Planning $40,000 per year.
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost

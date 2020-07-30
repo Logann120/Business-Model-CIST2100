@@ -23,4 +23,10 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-Please document your assumptions of how you arrived at the dollar estimates.
+## Documentation for expense assumptions
+#### Liability Insurance
+- For our first year we will have $500,000 in coverage. Our second year we will up that to a million, and then two million for year three.
+#### Advertising
+- For start-up and year one we will advertise on Goodle and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three but double the budget each year. 
+#### Legal
+- For start-up we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three we expect to have most bugs sorted out and thus we will not need as much legal help.  

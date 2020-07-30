@@ -10,7 +10,7 @@
 
 - We will also need a talented financial department that will upkeep company records and maintain compliance with the IRS.  We will go through a very selective interview process to select the best viable candidates for our managerial positions. Of course our talented team will need adequate financial software to keep records. For this we will provide them with NetSuit, a popular financial management software.   
 
-- We understand that stress can play a negative effect on our daily lives. To better serve our team members across all dimensions of their well-being, we will employ a wellness program. This wellness program will include fitness classes, flexible work schedules, free healthy food, annual flu shots, financial planning, and partial gym reimbursement. We will aquire extra space for these activities and hire experts to manage these programs.
+- We understand that stress can play a negative effect on our daily lives. To better serve our team members across all dimensions of their well-being, we will employ a wellness program. This wellness program will include fitness classes, flexible work schedules, free healthy food, annual flu shots, financial planning, and partial gym reimbursement.
 
 - We will also need talented engineers and marketing experts with creative and extensive technical knowledge and driven by empathy to ensure our customers receive the best possible products and services. We will utalize Verizon One Talk for Business for our communication system. We will also have a few company vehicles for for employees to meet with customers.   
 

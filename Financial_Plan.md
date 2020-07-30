@@ -3,15 +3,15 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Building and Utilities | $$$ | $$$ | $$$ | $$$ |
+|Building and Utilities | 108,000 | 108,000 | 108,000 | 108,000 |
 |Employee Salaries | $0 | $1,461,000 | $1,972,000 | $2,345,000 |
 |Liability Insurance | $0  | $631 | $859 | $1081 |
 |Technology | $$$ | $21,900 | $21,900 | $21,900 |
 |Equipment | $85,400 | $$$ | $$$ | $$$ |
 |Advertising | $10,100 | $10,100 | $20,200 | $40,400 |
 |Legal | $20,000 | $10,000 | $10,000 | $10,000 |
-|On-Site Customer Support  | $$$ | $$$ | $$$ | $$$ |
-|Wellness Program | $0 | $67,177 | $74,507.50 | $80,209 |
+|On-Site Customer Support  | $93,000 |$100,000  | $105,000 | $110,000 |
+|Wellness Program | $0 | $5,000 | $10,000 | $10,000 |
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
@@ -28,7 +28,7 @@
 #### Liability Insurance
 - For our first year we will have $500,000 in coverage. Our second year we will up that to a million, and then two million for year three.
 #### Advertising
-- For start-up and year one we will advertise on Goodle and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three but double the budget each year. 
+- For start-up and year one we will advertise on Google and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three but double the budget each year. 
 #### Legal
 - For start-up we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three we expect to have most bugs sorted out and thus we will not need as much legal help. 
 #### Employee Salaries
@@ -56,12 +56,7 @@
 - Service Technicians X 5 = 185,000
 - Financial Team X 3 = 153,000
 - HR Specialist X 5 = $245,000
-### Wellness Program
-- Onsite fitness classes 2*$250/month.
-- Gym reimbursement $20/month/employee.
-- Small snack bar $1.50/employee/day.
-- Free flu shots $27/employee/year.
-- Financial Planning $40,000 per year.
+
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost
@@ -76,6 +71,6 @@
 - Glassdoor. (2020, July 28). Service Technician Salaries. Retrieved from https://www.glassdoor.com/Salaries/service-technician-salary-SRCH_KO0,18.htm
 - PayScale. (2020, July 22). Average Accountant Salary. Retrieved from https://www.payscale.com/research/US/Job=Accountant/Salary
 - glassdoor. (2019, December 10). HR Generalist Salaries in Omaha, NE Area. Retrieved from https://www.glassdoor.com/Salaries/omaha-hr-generalist-salary-SRCH_IL.0,5_IM640_KO6,19.htm	
-- Glassdoor.(2020, June 10). Financial Advisor Salaries in Omaha, NE Area. Retrieved from 	https://www.glassdoor.com/Salaries/omaha-financial-advisor-salary-	SRCH_IL.0,5_IM640_KO6,23.htm
-- Getsinger, C. (2014, August 4). Onsite Flu Shots Save Health and Absence Costs. Retrieved from 	https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-flu-	shots.aspx#:~:text=Each%20flu%20shot%20only%20costs,or%20direct%20health%20care%20co	sts.
--Rodech, D. (2016, June 22). Extra Workplace Health Benefits: Are They Worth the Cost? 	Retrieved from https://thebenefitsguide.com/extra-workplace-health-benefits-worth-cost/
+Dodge Plaza - 13321 California Street, N., Street, 1., Street, 1., St, 1., St, 1., & Meyer, J. (2020). Dodge Plaza - 13321 California Street, Omaha, NE 68154 - OfficeSpace.com. Retrieved 30 July 2020, from https://www.officespace.com/ne/omaha/354272-13321-california-st
+Schmid, G. (n.d.). 14 Business Startup Costs Business Owners Need to Know. Retrieved from https://www.fundera.com/blog/business-startup-costs
+Salary.com, S. B. (n.d.). Customer Service Representative I Salary. Retrieved from https://www.salary.com/research/salary/benchmark/customer-service-representative-i-salary

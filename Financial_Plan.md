@@ -3,13 +3,14 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
-|Item | $$$ | $$$ | $$$ | $$$ |
+|Building and Utilities | $$$ | $$$ | $$$ | $$$ |
+|Employee Salaries | $$$ | $$$ | $$$ | $$$ |
+|Liability Insurance | $$$ | $$$ | $$$ | $$$ |
+|Technology | $$$ | $$$ | $$$ | $$$ |
+|Equipment | $$$ | $$$ | $$$ | $$$ |
+|Advertising | $$$ | $$$ | $$$ | $$$ |
+|Legal | $$$ | $$$ | $$$ | $$$ |
+|On-Site Customer Support  | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |

@@ -4,7 +4,7 @@
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |Building and Utilities | $$$ | $$$ | $$$ | $$$ |
-|Employee Salaries | $0 | $1,314,000 | $1,776,000 | $2,100,000 |
+|Employee Salaries | $0 | $1,461,000 | $1,972,000 | $2,345,000 |
 |Liability Insurance | $0  | $631 | $859 | $1081 |
 |Technology | $$$ | $21,900 | $21,900 | $21,900 |
 |Equipment | $85,400 | $$$ | $$$ | $$$ |
@@ -37,14 +37,16 @@
 - Programmers X 3 = 87,000 X 3 = 261,000/year
 - Customer Service X 8 = 28,000 X 8 = 224,000/year
 - Service Technicians X 3 = 37,000 X 3 = 111,000/year 
-- Financial Team X 2 = 51,000 X 2 = 102,000/year  
+- Financial Team X 2 = 51,000 X 2 = 102,000/year 
+- HR Specialist X 3 = 49,000 X 3 = 147,000/year
 ###### Year 2  
 - Upper Management = 400,000
 - Network Engineers X 5 = 360,000
 - Programmers X 5 = 435,000
 - Customer Service X 10 = 280,000
 - Service Technicians X 4 = 148,000
-- Financial Team X 3 = 153,000  
+- Financial Team X 3 = 153,000 
+- HR Specialist X 4 = 196,000
 ###### Year 3 
 - Upper Management = 400,000
 - Network Engineers X 7 = 504,000
@@ -52,7 +54,7 @@
 - Customer Service X 12 = 336,000
 - Service Technicians X 5 = 185,000
 - Financial Team X 3 = 153,000
-- Grand Total = $2,100,000
+- HR Specialist X 5 = $245,000
 
 
 ## References

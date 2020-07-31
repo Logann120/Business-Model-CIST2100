@@ -17,9 +17,9 @@
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | x | x | x |
-|Small Business Package ($$$ revenue per customer) | 0 | $1,188 | $1,188 | $1,188 |
-|Large Business Package ($$$ revenue per customer) | 0 | $7,188 | $7,188 | $7,188 |
-|Government Package ($$$ revenue per customer) | 0 | $11,988 | $11,988 | $11,988 |
+|Small Business Package ($/customer) | 0 | $1,188 | $1,188 | $1,188 |
+|Large Business Package ($/customer) | 0 | $7,188 | $7,188 | $7,188 |
+|Government Package ($/customer) | 0 | $11,988 | $11,988 | $11,988 |
 | | | | | |
 | TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
 | | | | | |

@@ -74,6 +74,9 @@
 - Large Business increase X 2 = 7,188 X 644 = 4,629,072/year
 - Government Agency increase X 1.25 = 11,988 X 39 = 468,281/year
 
+#### Financial Viability Assessment
+- Based our projected revenue estimates, our business model appears to be viable. Assuming things go as planned, we will make enough profit each year to sustain ourselves comfortably and follow our advertising and legal plans.
+
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost
 - Maake, M. (2020, June 8). How Much Does Google Ads Cost?. Retrieved from 	https://www.webfx.com/blog/marketing/much-cost-advertise-google-	adwords/#:~:text=The%20average%20cost%2Dper%2Dclick,include%20additional%20costs%2C	%20like%20software.

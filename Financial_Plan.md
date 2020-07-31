@@ -13,7 +13,7 @@
 |On-Site Customer Support  | $93,000 |$100,000  | $105,000 | $110,000 |
 |Wellness Program | $0 | $5,000 | $10,000 | $10,000 |
 | | | | | |
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ |
+|TOTAL COST | $208,500 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | x | x | x |

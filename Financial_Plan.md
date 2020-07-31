@@ -87,9 +87,9 @@
 - Glassdoor. (2020, July 28). Service Technician Salaries. Retrieved from https://www.glassdoor.com/Salaries/service-technician-salary-SRCH_KO0,18.htm
 - PayScale. (2020, July 22). Average Accountant Salary. Retrieved from https://www.payscale.com/research/US/Job=Accountant/Salary
 - glassdoor. (2019, December 10). HR Generalist Salaries in Omaha, NE Area. Retrieved from https://www.glassdoor.com/Salaries/omaha-hr-generalist-salary-SRCH_IL.0,5_IM640_KO6,19.htm	
-Dodge Plaza - 13321 California Street, N., Street, 1., Street, 1., St, 1., St, 1., & Meyer, J. (2020). Dodge Plaza - 13321 California Street, Omaha, NE 68154 - OfficeSpace.com. Retrieved 30 July 2020, from https://www.officespace.com/ne/omaha/354272-13321-california-st
-Schmid, G. (n.d.). 14 Business Startup Costs Business Owners Need to Know. Retrieved from https://www.fundera.com/blog/business-startup-costs
-Salary.com, S. B. (n.d.). Customer Service Representative I Salary. Retrieved from https://www.salary.com/research/salary/benchmark/customer-service-representative-i-salary
-2020 Federal Register Index. (2020, July 30). Retrieved July 30, 2020, from https://www.federalregister.gov/index/2020
-Mohsin, M. (2020, July 22). 10 Small Business Statistics You Need to Know in 2020 [May 2020]. Retrieved July 30, 2020, from https://www.oberlo.com/blog/small-business-statistics
-Thomas, G. S. (2012, July 27). 16,055 companies fit the definition of large businesses. Retrieved July 30, 2020, from https://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/16055-companies-fit-the-definition-of.html
+- Dodge Plaza - 13321 California Street, N., Street, 1., Street, 1., St, 1., St, 1., & Meyer, J. (2020). Dodge Plaza - 13321 California Street, Omaha, NE 68154 - OfficeSpace.com. Retrieved 30 July 2020, from https://www.officespace.com/ne/omaha/354272-13321-california-st
+- Schmid, G. (n.d.). 14 Business Startup Costs Business Owners Need to Know. Retrieved from https://www.fundera.com/blog/business-startup-costs
+- Salary.com, S. B. (n.d.). Customer Service Representative I Salary. Retrieved from https://www.salary.com/research/salary/benchmark/customer-service-representative-i-salary
+- 2020 Federal Register Index. (2020, July 30). Retrieved July 30, 2020, from https://www.federalregister.gov/index/2020
+- Mohsin, M. (2020, July 22). 10 Small Business Statistics You Need to Know in 2020 [May 2020]. Retrieved July 30, 2020, from https://www.oberlo.com/blog/small-business-statistics
+- Thomas, G. S. (2012, July 27). 16,055 companies fit the definition of large businesses. Retrieved July 30, 2020, from https://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/16055-companies-fit-the-definition-of.html

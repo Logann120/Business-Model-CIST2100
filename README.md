@@ -57,16 +57,16 @@ https://github.com/Logann120/Business-Model-CIST2100/blob/master/SkyNet%20Websit
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>Our largest and most important cost's are our employee salaries.<br>
+      Our equipment requires a large amount for start-up and then only a moderate amount there after.<br>
+      Providing on-site customer support will be our most expensive activity.<br>
+      It will cost us 1.7 million to run the business in the first year.</p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p>Our customers will pay for competitively priced rates <br>
+      We will charge on a monthly basis and we will have automatic withdraw option or pay in full.<br>
+      We have different plan prices for small and large businesses as well as government.</p>
     </td>
   </tr>
 </table>

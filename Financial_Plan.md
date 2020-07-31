@@ -16,14 +16,16 @@
 |TOTAL COST | $208,500 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Customers | 0 | x | x | x |
+|Number of Small Businesses | 0 | 3,070 | 6,240 | 12,280 |
+|Number of Large Businesses | 0 | 161 | 322 | 644 |
+|Number of Government Agencies | 0 | 25 | 31 | 39 |
 |Small Business Package ($/customer) | 0 | $1,188 | $1,188 | $1,188 |
 |Large Business Package ($/customer) | 0 | $7,188 | $7,188 | $7,188 |
 |Government Package ($/customer) | 0 | $11,988 | $11,988 | $11,988 |
 | | | | | |
-| TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
+| TOTAL REVENUE | 0 | $5,104,128 | $9,983,481 | $19,685,993 |
 | | | | | |
-| TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
+| TOTAL PROFIT | -$208,500 | $3,387,497 | $7,717,952 | $17,022,042 |
 
 
 ## Documentation of expense assumptions
@@ -58,7 +60,19 @@
 - Service Technicians X 5 = 185,000
 - Financial Team X 3 = 153,000
 - HR Specialist X 5 = $245,000
-
+#### Revenue Estimates
+###### Year 1
+- Small Business Package X ~0.0001% of 30.7 million small businesses = 1,188 X 3,070 = 3,647,160/year
+- Large Business Package X ~0.01% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
+- Government Package X ~0.1% of 245 government agencies = 11,988 X 25 = 299,700/year
+###### Year 2
+- Small Business increase X 2 = 1,188 X 6,240 = 7,294,320/year
+- Large Business increase X 2 = 7,188 X 322 = 2,314,536/year
+- Government Agency increase X 1.25 = 11,988 X 31 = 374,625/year
+###### Year 3
+- Small Business increase X 2 = 1,188 X 12,280 = 14,588,640/year
+- Large Business increase X 2 = 7,188 X 644 = 4,629,072/year
+- Government Agency increase X 1.25 = 11,988 X 39 = 468,281/year
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost
@@ -76,3 +90,6 @@
 Dodge Plaza - 13321 California Street, N., Street, 1., Street, 1., St, 1., St, 1., & Meyer, J. (2020). Dodge Plaza - 13321 California Street, Omaha, NE 68154 - OfficeSpace.com. Retrieved 30 July 2020, from https://www.officespace.com/ne/omaha/354272-13321-california-st
 Schmid, G. (n.d.). 14 Business Startup Costs Business Owners Need to Know. Retrieved from https://www.fundera.com/blog/business-startup-costs
 Salary.com, S. B. (n.d.). Customer Service Representative I Salary. Retrieved from https://www.salary.com/research/salary/benchmark/customer-service-representative-i-salary
+2020 Federal Register Index. (2020, July 30). Retrieved July 30, 2020, from https://www.federalregister.gov/index/2020
+Mohsin, M. (2020, July 22). 10 Small Business Statistics You Need to Know in 2020 [May 2020]. Retrieved July 30, 2020, from https://www.oberlo.com/blog/small-business-statistics
+Thomas, G. S. (2012, July 27). 16,055 companies fit the definition of large businesses. Retrieved July 30, 2020, from https://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/16055-companies-fit-the-definition-of.html

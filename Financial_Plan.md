@@ -62,9 +62,9 @@
 - HR Specialist X 5 = 245,000
 #### Revenue Estimates
 ###### Year 1
-- Small Business Package X ~0.00001% of 30.7 million small businesses = 1,188 X 307 = 364,716/year
-- Large Business Package X ~0.01% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
-- Government Package X ~0.1% of 245 government agencies = 11,988 X 25 = 299,700/year
+- Small Business Package X ~0.001% of 30.7 million small businesses = 1,188 X 307 = 364,716/year
+- Large Business Package X ~1% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
+- Government Package X ~10% of 245 government agencies = 11,988 X 25 = 299,700/year
 ###### Year 2
 - Small Business increase X 2 = 1,188 X 6,140 = 729,432/year
 - Large Business increase X 2 = 7,188 X 322 = 2,314,536/year

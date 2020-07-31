@@ -59,7 +59,7 @@
 - Customer Service X 12 = 336,000
 - Service Technicians X 5 = 185,000
 - Financial Team X 3 = 153,000
-- HR Specialist X 5 = $245,000
+- HR Specialist X 5 = 245,000
 #### Revenue Estimates
 ###### Year 1
 - Small Business Package X ~0.0001% of 30.7 million small businesses = 1,188 X 3,070 = 3,647,160/year
@@ -90,6 +90,6 @@
 - Dodge Plaza - 13321 California Street, N., Street, 1., Street, 1., St, 1., St, 1., & Meyer, J. (2020). Dodge Plaza - 13321 California Street, Omaha, NE 68154 - OfficeSpace.com. Retrieved 30 July 2020, from https://www.officespace.com/ne/omaha/354272-13321-california-st
 - Schmid, G. (n.d.). 14 Business Startup Costs Business Owners Need to Know. Retrieved from https://www.fundera.com/blog/business-startup-costs
 - Salary.com, S. B. (n.d.). Customer Service Representative I Salary. Retrieved from https://www.salary.com/research/salary/benchmark/customer-service-representative-i-salary
-- 2020 Federal Register Index. (2020, July 30). Retrieved July 30, 2020, from https://www.federalregister.gov/index/2020
-- Mohsin, M. (2020, July 22). 10 Small Business Statistics You Need to Know in 2020 [May 2020]. Retrieved July 30, 2020, from https://www.oberlo.com/blog/small-business-statistics
-- Thomas, G. S. (2012, July 27). 16,055 companies fit the definition of large businesses. Retrieved July 30, 2020, from https://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/16055-companies-fit-the-definition-of.html
+- 2020 Federal Register Index. (2020, July 30). Retrieved from https://www.federalregister.gov/index/2020
+- Mohsin, M. (2020, July 22). 10 Small Business Statistics You Need to Know in 2020 [May 2020]. Retrieved from https://www.oberlo.com/blog/small-business-statistics
+- Thomas, G. S. (2012, July 27). 16,055 companies fit the definition of large businesses. Retrieved from https://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/16055-companies-fit-the-definition-of.html

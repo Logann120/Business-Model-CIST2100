@@ -16,7 +16,7 @@
 |TOTAL COST | $208,500 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Small Businesses | 0 | 3,070 | 6,240 | 12,280 |
+|Number of Small Businesses | 0 | 3,070 | 6,140 | 12,280 |
 |Number of Large Businesses | 0 | 161 | 322 | 644 |
 |Number of Government Agencies | 0 | 25 | 31 | 39 |
 |Small Business Package ($/customer) | 0 | $1,188 | $1,188 | $1,188 |
@@ -30,14 +30,14 @@
 
 ## Documentation of expense assumptions
 #### Liability Insurance
-- For our first year we will have $500,000 in coverage. Our second year we will up that to a million, and then two million for year three.
+- For our first year, we will have $500,000 in coverage. Our second year we will up that to a million, and then two million for year three.
 #### Advertising
-- For start-up and year one we will advertise on Google and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three but double the budget each year. 
+- For start-up and year one, we will advertise on Google and Facebook, we will also sponsor a local little league team. We will use the same forms of advertising for years two and three, doubling the budget each year. 
 #### Legal
-- For start-up we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three we expect to have most bugs sorted out and thus we will not need as much legal help. 
+- For start-up, we will pay a retaining fee for a lawyer to help us with any legal issues that may arise. For years two and three, we expect to have most bugs sorted out and thus will not need as much legal help. 
 #### Employee Salaries
 ###### Year 1
-- Upper Management CEO, COO, CFO, CTO = 100,000/year X 4 = 400,000/year
+- Upper Management (CEO, COO, CFO, CTO) = 100,000/year X 4 = 400,000/year
 - Network Engineers X 3 = 72,000 X 3 = 216,000/year
 - Programmers X 3 = 87,000 X 3 = 261,000/year
 - Customer Service X 8 = 28,000 X 8 = 224,000/year
@@ -66,7 +66,7 @@
 - Large Business Package X ~0.01% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
 - Government Package X ~0.1% of 245 government agencies = 11,988 X 25 = 299,700/year
 ###### Year 2
-- Small Business increase X 2 = 1,188 X 6,240 = 7,294,320/year
+- Small Business increase X 2 = 1,188 X 6,140 = 7,294,320/year
 - Large Business increase X 2 = 7,188 X 322 = 2,314,536/year
 - Government Agency increase X 1.25 = 11,988 X 31 = 374,625/year
 ###### Year 3

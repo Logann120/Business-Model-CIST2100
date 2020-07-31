@@ -16,16 +16,16 @@
 |TOTAL COST | $208,500 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Small Businesses | 0 | 3,070 | 6,140 | 12,280 |
+|Number of Small Businesses | 0 | 307 | 614 | 1,228 |
 |Number of Large Businesses | 0 | 161 | 322 | 644 |
 |Number of Government Agencies | 0 | 25 | 31 | 39 |
 |Small Business Package ($/customer) | 0 | $1,188 | $1,188 | $1,188 |
 |Large Business Package ($/customer) | 0 | $7,188 | $7,188 | $7,188 |
 |Government Package ($/customer) | 0 | $11,988 | $11,988 | $11,988 |
 | | | | | |
-| TOTAL REVENUE | 0 | $5,104,128 | $9,983,481 | $19,685,993 |
+| TOTAL REVENUE | 0 | $1,821,684 | $3,418,593 | $6,556,217 |
 | | | | | |
-| TOTAL PROFIT | -$208,500 | $3,387,497 | $7,717,952 | $17,022,042 |
+| TOTAL PROFIT | -$208,500 | $105,053 | $1,153,064 | $3,892,266 |
 
 
 ## Documentation of expense assumptions
@@ -62,20 +62,20 @@
 - HR Specialist X 5 = 245,000
 #### Revenue Estimates
 ###### Year 1
-- Small Business Package X ~0.0001% of 30.7 million small businesses = 1,188 X 3,070 = 3,647,160/year
+- Small Business Package X ~0.00001% of 30.7 million small businesses = 1,188 X 307 = 364,716/year
 - Large Business Package X ~0.01% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
 - Government Package X ~0.1% of 245 government agencies = 11,988 X 25 = 299,700/year
 ###### Year 2
-- Small Business increase X 2 = 1,188 X 6,140 = 7,294,320/year
+- Small Business increase X 2 = 1,188 X 6,140 = 729,432/year
 - Large Business increase X 2 = 7,188 X 322 = 2,314,536/year
 - Government Agency increase X 1.25 = 11,988 X 31 = 374,625/year
 ###### Year 3
-- Small Business increase X 2 = 1,188 X 12,280 = 14,588,640/year
+- Small Business increase X 2 = 1,188 X 12,280 = 1,458,864/year
 - Large Business increase X 2 = 7,188 X 644 = 4,629,072/year
 - Government Agency increase X 1.25 = 11,988 X 39 = 468,281/year
 
 #### Financial Viability Assessment
-- Based our projected revenue estimates, our business model appears to be viable. Assuming things go as planned, we will make enough profit each year to sustain ourselves comfortably and follow our advertising and legal plans.
+- Based on our projected revenue estimates, our business model appears ultimately to be viable. Assuming things go as planned, the first year will be tight, but things will pick up the pace in years two and three. The costs of start-up should be easily and fully covered by the second year. With the extra funds by year two, we will be able to spread our advertising more widely across the country and add more features and resources to our business.
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost

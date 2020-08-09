@@ -2,7 +2,7 @@
 
 #### Start-up Costs
 
-- We will need a large amount of start-up funding for this business. We estimate we will need at least $500,000 to start this business. We will meet this demand by selling off personal assets, securing investors, and by taking out a small business loan. 
+- We will need a large amount of start-up funding for this business. We estimate we will need at least $200,000 to start this business. We will meet this demand by selling off personal assets, securing investors, and by taking out a small business loan. 
 
 #### People and Departments
 

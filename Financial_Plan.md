@@ -75,7 +75,7 @@
 - Government Agency increase X 1.4 = 71,988 X 27 = 1,943,676/year
 
 #### Financial Viability Assessment
-- Based on our projected revenue estimates, our business model appears ultimately to be viable. Assuming things go as planned, the first year will be tight, but things will pick up the pace in years two and three. The costs of start-up should be easily and fully covered by the second year. With the extra funds by year two, we will be able to spread our advertising more widely across the country and add more features and resources to our business.
+- Based on our projected revenue estimates, our business model appears ultimately to be viable. Assuming things go as planned, the first year will be a loss, but things will pick up the pace in years two and three. The costs of start-up should be easily and fully covered by the third year. With the extra funds by year two, we will be able to spread our advertising more widely across the country and add more features and resources to our business.
 
 ## References
 - Insureon.(2020). How much does insurance cost for technology businesses?. Retrieved from 	https://www.insureon.com/technology-business-insurance/cost

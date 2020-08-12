@@ -16,16 +16,16 @@
 |TOTAL COST | $105,400 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Small Businesses | 0 | 307 | 614 | 1,228 |
-|Number of Large Businesses | 0 | 161 | 322 | 644 |
-|Number of Government Agencies | 0 | 25 | 31 | 39 |
+|Number of Small Businesses | 0 | 153 | 245 | 466 |
+|Number of Large Businesses | 0 | 16 | 26 | 49 |
+|Number of Government Agencies | 0 | 15 | 19 | 27 |
 |Small Business Package ($/customer) | 0 | $1,188 | $1,188 | $1,188 |
-|Large Business Package ($/customer) | 0 | $7,188 | $7,188 | $7,188 |
-|Government Package ($/customer) | 0 | $11,988 | $11,988 | $11,988 |
+|Large Business Package ($/customer) | 0 | $23,988 | $23,988 | $23,988 |
+|Government Package ($/customer) | 0 | $71,988 | $71,988 | $71,988 |
 | | | | | |
-| TOTAL REVENUE | 0 | $1,821,684 | $3,418,593 | $6,556,217 |
+| TOTAL REVENUE | 0 | $1,645,392 | $2,282,520 | $3,672,696 |
 | | | | | |
-| TOTAL PROFIT | -$105,400 | $105,053 | $1,153,064 | $3,892,266 |
+| TOTAL PROFIT | -$105,400 | -$71,239 | $16,991 | $1,008,745 |
 
 
 ## Documentation of expense assumptions
@@ -62,17 +62,17 @@
 - HR Specialist X 5 = 245,000
 #### Revenue Estimates
 ###### Year 1
-- Small Business Package X ~0.001% of 30.7 million small businesses = 1,188 X 307 = 364,716/year
-- Large Business Package X ~1% of 16,055 large businesses = 7,188 X 161 = 1,157,268/year
-- Government Package X ~10% of 245 government agencies = 11,988 X 25 = 299,700/year
+- Small Business Package X ~0.000005% of 30.7 million small businesses = 1,188 X 153 = 181,764/year
+- Large Business Package X ~.001% of 16,055 large businesses = 23,988 X 16 = 383,808/year
+- Government Package X ~ 6% of 245 government agencies = 71,988 X 15 = 1,079,820/year
 ###### Year 2
-- Small Business increase X 2 = 1,188 X 6,140 = 729,432/year
-- Large Business increase X 2 = 7,188 X 322 = 2,314,536/year
-- Government Agency increase X 1.25 = 11,988 X 31 = 374,625/year
+- Small Business increase X 1.6 = 1,188 X 245 = 291,060/year
+- Large Business increase X 1.6 = 23,988 X 26 = 623,688/year
+- Government Agency increase X 1.25 = 71,988 X 19 = 1,367,772/year
 ###### Year 3
-- Small Business increase X 2 = 1,188 X 12,280 = 1,458,864/year
-- Large Business increase X 2 = 7,188 X 644 = 4,629,072/year
-- Government Agency increase X 1.25 = 11,988 X 39 = 468,281/year
+- Small Business increase X 1.9 = 1,188 X 466 = 553,608/year
+- Large Business increase X 1.9 = 23,988 X 49 = 1,175,412/year
+- Government Agency increase X 1.4 = 71,988 X 27 = 1,943,676/year
 
 #### Financial Viability Assessment
 - Based on our projected revenue estimates, our business model appears ultimately to be viable. Assuming things go as planned, the first year will be tight, but things will pick up the pace in years two and three. The costs of start-up should be easily and fully covered by the second year. With the extra funds by year two, we will be able to spread our advertising more widely across the country and add more features and resources to our business.

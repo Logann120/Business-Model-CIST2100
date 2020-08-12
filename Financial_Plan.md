@@ -25,7 +25,7 @@
 | | | | | |
 | TOTAL REVENUE | 0 | $1,821,684 | $3,418,593 | $6,556,217 |
 | | | | | |
-| TOTAL PROFIT | -$208,500 | $105,053 | $1,153,064 | $3,892,266 |
+| TOTAL PROFIT | -$105,400 | $105,053 | $1,153,064 | $3,892,266 |
 
 
 ## Documentation of expense assumptions

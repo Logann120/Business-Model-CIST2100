@@ -3,17 +3,17 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Building and Utilities | 108,000 | 108,000 | 108,000 | 108,000 |
+|Building Purchase and Utilities | 108,000 | 108,000 | 108,000 | 108,000 |
 |Employee Salaries | $0 | $1,461,000 | $1,972,000 | $2,345,000 |
 |Liability Insurance | $0  | $631 | $859 | $1081 |
 |Technology | $$$ | $21,900 | $21,900 | $21,900 |
 |Equipment | $85,400 | $0 | $17,570 | $17,570 |
-|Advertising | $10,100 | $10,100 | $20,200 | $40,400 |
+|Advertising |$0| $10,100 | $20,200 | $40,400 |
 |Legal | $20,000 | $10,000 | $10,000 | $10,000 |
-|On-Site Customer Support  | $93,000 |$100,000  | $105,000 | $110,000 |
+|On-Site Customer Support  | $0 |$100,000  | $105,000 | $110,000 |
 |Wellness Program | $0 | $5,000 | $10,000 | $10,000 |
 | | | | | |
-|TOTAL COST | $208,500 | $1,716,631 | $2,265,529 | $2,663,951 |
+|TOTAL COST | $105,400 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Small Businesses | 0 | 307 | 614 | 1,228 |

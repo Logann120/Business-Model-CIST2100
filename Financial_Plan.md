@@ -13,7 +13,7 @@
 |On-Site Customer Support  | $0 |$100,000  | $105,000 | $110,000 |
 |Wellness Program | $0 | $5,000 | $10,000 | $10,000 |
 | | | | | |
-|TOTAL COST | $105,400 | $1,716,631 | $2,265,529 | $2,663,951 |
+|TOTAL COST | $213,400 | $1,716,631 | $2,265,529 | $2,663,951 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Small Businesses | 0 | 153 | 245 | 466 |
@@ -25,7 +25,7 @@
 | | | | | |
 | TOTAL REVENUE | 0 | $1,645,392 | $2,282,520 | $3,672,696 |
 | | | | | |
-| TOTAL PROFIT | -$105,400 | -$71,239 | $16,991 | $1,008,745 |
+| TOTAL PROFIT | -$213,400 | -$71,239 | $16,991 | $1,008,745 |
 
 
 ## Documentation of expense assumptions
